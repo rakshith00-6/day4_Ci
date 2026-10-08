@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="app">
       <header className="header">
-        <h1>🚀 DevOps Learning Hub</h1>
+        <h1>🚀 DevOps Learning - CI/CD with React</h1>
         <p>Learning CI/CD with React, GitHub Actions & Docker</p>
       </header>
 
